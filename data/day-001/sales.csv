@@ -1,0 +1,16 @@
+transaction_id,product,category,quantity,price,total,date
+1,Laptop,Electronics,1,999.99,999.99,2024-01-15
+2,Mouse,Electronics,2,29.99,59.98,2024-01-15
+3,Desk,Furniture,1,299.99,299.99,2024-01-16
+4,Chair,Furniture,2,199.99,399.98,2024-01-16
+5,Monitor,Electronics,1,399.99,399.99,2024-01-17
+6,Keyboard,Electronics,3,79.99,239.97,2024-01-17
+7,Bookshelf,Furniture,1,149.99,149.99,2024-01-18
+8,Lamp,Furniture,2,49.99,99.98,2024-01-18
+9,Webcam,Electronics,1,89.99,89.99,2024-01-19
+10,Headphones,Electronics,2,149.99,299.98,2024-01-19
+11,Standing Desk,Furniture,1,499.99,499.99,2024-01-20
+12,USB Hub,Electronics,4,24.99,99.96,2024-01-20
+13,Office Chair,Furniture,1,349.99,349.99,2024-01-21
+14,Tablet,Electronics,1,599.99,599.99,2024-01-21
+15,Printer,Electronics,1,249.99,249.99,2024-01-22

@@ -1,0 +1,21 @@
+id,name,age,department,salary,city,join_date
+1,Alice Johnson,28,Engineering,75000,New York,2022-01-15
+2,Bob Smith,35,Engineering,95000,San Francisco,2021-03-20
+3,Charlie Brown,42,Sales,85000,Austin,2020-06-10
+4,Diana Prince,31,Marketing,80000,Seattle,2021-09-05
+5,Eve Davis,29,Engineering,72000,Boston,2022-02-28
+6,Frank Miller,38,Sales,88000,Chicago,2020-11-12
+7,Grace Lee,26,Marketing,70000,Los Angeles,2022-05-18
+8,Henry Wilson,45,Engineering,92000,Denver,2019-08-22
+9,Iris Chen,33,Marketing,78000,Portland,2021-07-14
+10,Jack Taylor,40,Sales,86000,Miami,2020-04-30
+11,Kate Brown,27,Engineering,74000,New York,2022-03-10
+12,Leo Martinez,36,Sales,89000,San Francisco,2021-01-25
+13,Mia Anderson,30,Marketing,76000,Austin,2021-10-08
+14,Noah Garcia,44,Engineering,94000,Seattle,2019-12-15
+15,Olivia White,32,Sales,82000,Boston,2020-09-20
+16,Paul Harris,39,Marketing,81000,Chicago,2020-07-05
+17,Quinn Lewis,28,Engineering,73000,Los Angeles,2022-04-12
+18,Rachel King,37,Sales,87000,Denver,2021-02-18
+19,Sam Turner,31,Marketing,77000,Portland,2021-11-22
+20,Tina Moore,43,Engineering,93000,Miami,2019-10-30

@@ -1,0 +1,15 @@
+# Day 49: Real-Time Analytics - Dependencies
+
+# Spark
+pyspark==3.5.0
+
+# Kafka
+kafka-python==2.0.2
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Optional: For bonus sections
+# great-expectations==0.18.8
+# streamlit==1.29.0

@@ -1,0 +1,21 @@
+# Commit message template for 100 Days of Data and AI
+# 
+# Format: Complete Day XXX: Topic Name
+#
+# Examples:
+#   Complete Day 001: CSV vs JSON
+#   Complete Day 007: Mini Project - Format Converter
+#   Complete Day 050: Checkpoint - Data Engineering Review
+#   Complete Day 100: Capstone Review
+#
+# Other formats:
+#   WIP: Day 023 Spark exercises (partial)
+#   Fix Day 015 exercise syntax error
+#   Add notes to Day 042 README
+#   Update Day 077 prompt examples
+#
+# Tips:
+# - Start with a verb (Complete, Add, Fix, Update, WIP)
+# - Keep it under 50 characters
+# - Be specific and descriptive
+# - Reference day number with leading zeros (001, 023, 100)

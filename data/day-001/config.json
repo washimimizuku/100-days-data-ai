@@ -1,0 +1,24 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "data_warehouse",
+    "connection_string": "postgresql://user:password@localhost:5432/data_warehouse"
+  },
+  "api": {
+    "base_url": "https://api.example.com",
+    "version": "v1",
+    "timeout": 30,
+    "endpoints": [
+      "/users",
+      "/products",
+      "/orders",
+      "/analytics"
+    ]
+  },
+  "features": {
+    "enable_caching": true,
+    "enable_logging": true,
+    "max_retries": 3
+  }
+}
